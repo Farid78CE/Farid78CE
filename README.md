@@ -1,8 +1,8 @@
-<div style="text-align: center;">
-         <img width="400" src="https://wallup.net/wp-content/uploads/2017/11/17/281809-motivational.jpg">
-</div>
+<h1> life is too short </h1>
+<img align="middle" width="400" src="https://wallup.net/wp-content/uploads/2017/11/17/281809-motivational.jpg">
 
-<h1 align="center">Hi 👋, I'm Farid</h1>
+
+<h2 align="center">Hi 👋, I'm Farid</h2>
 <h3 align="center">A passionate security and motivative programmer.</h3>
 
 ![image](https://github.com/Farid78CE/Farid78CE/assets/61583433/aceacc55-2334-44a2-bb5c-c94f4f34e3ce)
@@ -26,7 +26,7 @@
 
 - 📫 Mail: **farid.zaredar@gmail.com**
 
-- ⚡A fact about me: **I think I will never ever give up**
+- ⚡ Success: **you must never ever give up**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
