@@ -1,6 +1,11 @@
+<div style="text-align: center;">
+         <img width="400" src="https://wallup.net/wp-content/uploads/2017/11/17/281809-motivational.jpg">
+</div>
+
 <h1 align="center">Hi 👋, I'm Farid</h1>
 <h3 align="center">A passionate security and motivative programmer.</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/2mUvEwv7hrgmp6Wr5">
+
+![image](https://github.com/Farid78CE/Farid78CE/assets/61583433/aceacc55-2334-44a2-bb5c-c94f4f34e3ce)
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=farid78ce&label=Profile%20views&color=0e75b6&style=flat" alt="farid78ce" /> 
 </p>
