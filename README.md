@@ -12,15 +12,15 @@
 
 - 🤝 I’m enthusiastic to develop **Cyber security projects.**
 
-- 📫 University Mail **farid.zaredar78@sharif.edu, farid.zaredar@ce.sharif.edu**
+- 📫 University Mail: **farid.zaredar78@sharif.edu, farid.zaredar@ce.sharif.edu**
 
 - 🔎 My Research Interests: **Smart Grid Data Privacy, IoT Security, IoT Privacy, Network Security, OS Security, Machine Learning, Deep Learning**
 
 - 🏛️ I’m currently a graduate student **At sharif university of technology.**
 
-- 📫 Mail **farid.zaredar@gmail.com**
+- 📫 Mail: **farid.zaredar@gmail.com**
 
-- ⚡A fact about me **I think I will never ever give up**
+- ⚡A fact about me: **I think I will never ever give up**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
