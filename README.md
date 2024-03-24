@@ -28,7 +28,7 @@
 
 - ⚡ Success: **you must never ever give up.**
 
-- Projects: **Many of my repositories are private but one they will be accessible** 
+- Projects: **Many of my repositories are private but they will be accessible soon** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
