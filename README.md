@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Farid</h1>
 <h3 align="center">A passionate security and motivative programmer.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/7Vo9L62kngFuic6B6">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farid78ce&label=Profile%20views&color=0e75b6&style=flat" alt="farid78ce" /> </p>
 
 - 🔭 I’m currently working on **My Thesis which is focused on Smart Grids Privacy.**
