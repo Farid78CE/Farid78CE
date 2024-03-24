@@ -1,5 +1,5 @@
-<h1> life is too short </h1>
-<img align="middle" width="400" src="https://wallup.net/wp-content/uploads/2017/11/17/281809-motivational.jpg">
+<h1> Life is too short </h1>
+<img align="middle" src="https://wallup.net/wp-content/uploads/2017/11/17/281809-motivational.jpg" style="margin-left:auto; margin-right:auto;">
 
 
 <h2 align="center">Hi 👋, I'm Farid</h2>
@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **My Thesis which is focused on Smart Grids Privacy.**
 
-- 🌱 I’m currently learning **Different topics in field of AI, network security and cyber security and psychology**
+- 🌱 I’m currently learning **Different topics in field of AI, network security and cyber security and psychology.**
 
 - 👯 I’m looking to collaborate on **projects that are mostly related to cyber security, Network Security and cryptography.**
 
@@ -26,7 +26,7 @@
 
 - 📫 Mail: **farid.zaredar@gmail.com**
 
-- ⚡ Success: **you must never ever give up**
+- ⚡ Success: **you must never ever give up.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
