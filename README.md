@@ -1,5 +1,3 @@
-
-
 <!-- <h1 align="center"> Life is too short!</h1> -->
 <!-- (url)<img align="middle" src="https://wallup.net/wp-content/uploads/2017/11/17/281809-motivational.jpg" style="margin-left:auto; margin-right:auto;"> -->
 
@@ -30,7 +28,7 @@
 
 - ⚡ Success: **you must never ever give up.**
 
-- Projects: **Many of my repositories are private but one they will accessible** 
+- Projects: **Many of my repositories are private but one they will be accessible** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
