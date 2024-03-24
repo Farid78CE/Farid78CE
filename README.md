@@ -2,7 +2,7 @@
 <!-- (url)<img align="middle" src="https://wallup.net/wp-content/uploads/2017/11/17/281809-motivational.jpg" style="margin-left:auto; margin-right:auto;"> -->
 
 <h2 align="center">Hi 👋, I'm Farid</h2>
-<h3 align="center">A passionate security and motivative programmer.</h3>
+<h3 align="center">A Passionate Security Engineer and Motivative Programmer.</h3>
 
 <!-- ![image](https://github.com/Farid78CE/Farid78CE/assets/61583433/aceacc55-2334-44a2-bb5c-c94f4f34e3ce)-->
 <img align="middle" src="https://wallup.net/wp-content/uploads/2017/11/17/281809-motivational.jpg" style="margin-left:auto; margin-right:auto; width:500">
