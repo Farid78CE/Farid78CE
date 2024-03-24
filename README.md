@@ -14,7 +14,7 @@
 
 - 📫 University Mail **farid.zaredar78@sharif.edu, farid.zaredar@ce.sharif.edu**
 
-- 🔎 My Research Interests **Smart Grid Data Privacy, IoT Security, IoT Privacy, Network Security, OS Security, Machine Learning, Deep Learning**
+- 🔎 My Research Interests: **Smart Grid Data Privacy, IoT Security, IoT Privacy, Network Security, OS Security, Machine Learning, Deep Learning**
 
 - 🏛️ I’m currently a graduate student **At sharif university of technology.**
 
