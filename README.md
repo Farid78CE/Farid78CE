@@ -1,4 +1,5 @@
-<h1> Life is too short </h1>
+
+<h1 align="center"> Life is too short!</h1>
 <img align="middle" src="https://wallup.net/wp-content/uploads/2017/11/17/281809-motivational.jpg" style="margin-left:auto; margin-right:auto;">
 
 
