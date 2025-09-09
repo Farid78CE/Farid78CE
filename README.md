@@ -6,6 +6,7 @@
 
 <!-- ![image](https://github.com/Farid78CE/Farid78CE/assets/61583433/aceacc55-2334-44a2-bb5c-c94f4f34e3ce)-->
 <img align="middle" src="https://wallup.net/wp-content/uploads/2017/11/17/281809-motivational.jpg" style="margin-left:auto; margin-right:auto; width:500">
+<!-- (https://wallup.net/wp-content/uploads/2017/11/17/281809-motivational.jpg) --> 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=farid78ce&label=Profile%20views&color=0e75b6&style=flat" alt="farid78ce" /> 
 </p>
