@@ -3,9 +3,7 @@
 
 <h2 align="center">Hi 👋, I'm Farid</h2>
 <h3 align="center">A Passionate Security Engineer and Motivative Programmer.</h3>
-
-<!-- ![image](https://github.com/Farid78CE/Farid78CE/assets/61583433/aceacc55-2334-44a2-bb5c-c94f4f34e3ce)-->
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=129689664264102880" height="1167" width="600" frameborder="0" scrolling="no" ></iframe>
+<img src="https://www.pinterest.com/pin/253116441543848835/" alt="Null" width="700" height="550"> <!-- ![image](https://github.com/Farid78CE/Farid78CE/assets/61583433/aceacc55-2334-44a2-bb5c-c94f4f34e3ce)-->
 <!-- (https://wallup.net/wp-content/uploads/2017/11/17/281809-motivational.jpg) --> 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=farid78ce&label=Profile%20views&color=0e75b6&style=flat" alt="farid78ce" /> 
