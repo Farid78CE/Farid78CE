@@ -3,7 +3,7 @@
 
 <h2 align="center">Hi 👋, I'm Farid</h2>
 <h3 align="center">A Passionate Security Engineer and Motivative Programmer.</h3>
-<img src="https://i.ibb.co/LhsCgSGm/Gf-Rtn-DJbg-AA92-WR.jpg" width=900 height=500 alt="Null"> 
+<img src="https://limewire.com/decrypt?downloadUrl=https%3A%2F%2Flimewire-filesharing-production.b61cdfd8cf17f52ddc020162e738eb5d.r2.cloudflarestorage.com%2Fbuckets%2F2a88556a-0142-456a-ad0e-2d28f46c89c0%2Fb64e5c52-ee6d-4b3e-9cff-b0fd3a5b48b2%3FX-Amz-Algorithm%3DAWS4-HMAC-SHA256%26X-Amz-Date%3D20250909T130202Z%26X-Amz-SignedHeaders%3Dhost%26X-Amz-Credential%3Da1868571dfad6d4fe293ee5b945a0ad5%252F20250909%252Fauto%252Fs3%252Faws4_request%26X-Amz-Expires%3D14400%26X-Amz-Signature%3D43f5ffa9b20ebb0cfe615097ea97e2cd45590fa35e061770fc2f81091ce9022f&mediaType=image%2Fjpeg&decryptionKeys=eyJhZXNHY21Kd2siOnsiYWVzS2V5VHlwZSI6IlNZTU1FVFJJQ19BRVMtR0NNX0tFWSIsImp3ayI6eyJhbGciOiJBMjU2R0NNIiwiZXh0Ijp0cnVlLCJrIjoiMWROQXh5YkEyd1p0cFZZZXdZVWxpZkhVX3BxUGMyYmNsNWZqWnpqcFdfUSIsImtleV9vcHMiOlsiZW5jcnlwdCIsImRlY3J5cHQiXSwia3R5Ijoib2N0In19LCJhZXNDdHJKd2siOnsiYWVzS2V5VHlwZSI6IlNZTU1FVFJJQ19BRVMtQ1RSX0tFWSIsImp3ayI6eyJhbGciOiJBMjU2Q1RSIiwiZXh0Ijp0cnVlLCJrIjoiMWROQXh5YkEyd1p0cFZZZXdZVWxpZkhVX3BxUGMyYmNsNWZqWnpqcFdfUSIsImtleV9vcHMiOlsiZW5jcnlwdCIsImRlY3J5cHQiXSwia3R5Ijoib2N0In19fQ" width=900 height=500 alt="Null"> 
 <!-- ![image](https://github.com/Farid78CE/Farid78CE/
 assets/61583433/aceacc55-2334-44a2-bb5c-c94f4f34e3ce)-->
 <!-- (https://wallup.net/wp-content/uploads/2017/11/17/281809-motivational.jpg) --> 
