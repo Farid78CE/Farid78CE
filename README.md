@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=farid78ce&label=Profile%20views&color=0e75b6&style=flat" alt="farid78ce" /> 
 </p>
 
-- 🔭 I’m currently a Phd Student @ Sharif University of Technology.**
+- 🔭 I’m currently conducting research in field of **ML/DL Security and Privacy**.
 
 - 🌱 I’m currently learning **Different topics in field of AI, network & system security, cyber security and psychology.**
 
@@ -22,7 +22,7 @@
 
 - 🔎 My Research Interests: **Smart Grid Data Privacy, IoT Security, IoT Privacy, Network Security, OS Security, Machine Learning & Deep Learning Security and Privacy**
 
-- 🏛️ I’m currently a graduate student **At sharif university of technology.**
+- 🏛️ I’m currently a PhD student **@ sharif university of technology.**
 
 - 📫 Mail: **farid.zaredar@gmail.com**
 
